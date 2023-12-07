@@ -7,5 +7,5 @@ offof = "wwewee"
 
 
 
-if 2 == 2:
+if 66 == 2:
                   print("2")
