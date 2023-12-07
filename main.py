@@ -1,5 +1,9 @@
 from os import getenv
 env = getenv("ENVIRONMENT")
 action = getenv("ACTION")
-if env == "dev" and action == "stop":
+offof = "wwewee"
+
+
+
+if env == "dev" or action == "stop":
                   print("good")
