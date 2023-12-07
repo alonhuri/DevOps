@@ -4,6 +4,5 @@ action = getenv("ACTION")
 offof = "wwewee"
 
 
-
-if env == "dev" or action == "stop":
-                  print("good")
+if 2 == 2:
+                  print("2")
